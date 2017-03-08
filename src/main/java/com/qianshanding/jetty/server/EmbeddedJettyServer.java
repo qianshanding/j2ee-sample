@@ -33,7 +33,7 @@ public class EmbeddedJettyServer {
     /**
      * webapp contextpath
      */
-    protected String contextPath = "";
+    protected String contextPath = "/";
     /**
      * http线程池大小
      */

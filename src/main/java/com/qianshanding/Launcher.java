@@ -8,7 +8,7 @@ import com.qianshanding.jetty.server.EmbeddedJettyServer;
 public class Launcher {
     public static void main(String[] args) throws Exception {
         EmbeddedJettyServer jettyServer = new EmbeddedJettyServer();
-        jettyServer.setPort(8092);
+        jettyServer.setPort(9999);
         jettyServer.setContextPath("/");
         jettyServer.start();
     }
