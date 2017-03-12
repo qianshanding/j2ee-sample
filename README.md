@@ -1,4 +1,6 @@
-# j2ee-sample
+##Github地址
+ https://github.com/qianshanding
+##j2ee-sample
  J2EE的一些实例。包含通过Jetty实用Main启动服务、验证码、Servlet异步请求。
 ##目录
 * 启动
