@@ -32,7 +32,7 @@ mvn clean install exec:exec
     http://localhost:9999/life_circle
     ```
     效果：
-    ![code](https://github.com/qianshanding/j2ee-sample/validate_code.jpg "验证码")
+    ![code](https://github.com/qianshanding/j2ee-sample/blob/master/validate_code.jpg "验证码")
     
 
 
