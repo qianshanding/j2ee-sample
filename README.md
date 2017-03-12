@@ -23,6 +23,9 @@ mvn clean install exec:exec
     ```
     http://localhost:9999/validate_code
     ```
+    效果：
+        ![code](https://github.com/qianshanding/j2ee-sample/blob/master/validate_code.jpg "验证码")
+        
     * 异步调用
     ```
     http://localhost:9999/test_async
@@ -31,8 +34,6 @@ mvn clean install exec:exec
     ```
     http://localhost:9999/life_circle
     ```
-    效果：
-    ![code](https://github.com/qianshanding/j2ee-sample/blob/master/validate_code.jpg "验证码")
     
 
 
